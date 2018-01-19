@@ -72,7 +72,7 @@
 			<tr>
 				<th scope="row">Remove all existing IP addresses</th>
 				<td>
-					<a class="button button-primary" href="<?php echo admin_url('/admin-ajax.php') .'?action=aio_gdpr_no_ips_purge' ?>">Click here</a>
+					<a class="button button-primary" href="<?php echo admin_url('/admin-ajax.php') .'?action=aio_gdpr_no_ips_purge' ?>">Purge</a>
 				</td>
 			</tr>
 		</tbody>
